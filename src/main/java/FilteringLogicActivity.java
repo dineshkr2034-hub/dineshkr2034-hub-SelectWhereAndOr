@@ -81,7 +81,7 @@ public class FilteringLogicActivity {
     public Set<Employee> problem2() {
         /**
          * Problem 2: Write a statement that will query the above table for all employees who earn more than $100,000 or less
-         * than $50,000
+         * than $50,000q
          */
         String sql = FileUtil.parseSQLFile("problem2.sql");
 
